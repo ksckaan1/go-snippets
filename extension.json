@@ -1,0 +1,15 @@
+{
+    "identifier": "ksckaan1.GoSnippets",
+    "name": "Go Snippets",
+    "organization": "Kaan Kuscu",
+    "description": "Go Snippets for Nova",
+    "vendor": "ksckaan1",
+    "version": "1.0",
+    "categories": ["Completions"],
+    
+    "main": "main.js",
+    
+    "activationEvents": [
+        "onLanguage:go"
+    ]
+}
