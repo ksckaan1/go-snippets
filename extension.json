@@ -5,7 +5,8 @@
     "description": "Go Snippets for Nova",
     "vendor": "ksckaan1",
     "version": "1.0",
-    "categories": ["Completions"],
+    "categories": ["completions"],
+    "bugs": "https://github.com/ksckaan1/go-snippets/issues",
     
     "main": "main.js",
     
